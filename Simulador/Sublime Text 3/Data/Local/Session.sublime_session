@@ -28,12 +28,12 @@
 			"buffers":
 			[
 				{
-					"file": "/C/Users/Giovanni dos Santos/Documents/AtividadesOrgArq-SSC0902/Simulador/h.asm",
+					"file": "/C/Users/Giovanni dos Santos/Documents/AtividadesOrgArq-SSC0902/Simulador/nave.asm",
 					"settings":
 					{
-						"buffer_size": 2652,
+						"buffer_size": 2907,
 						"line_ending": "Windows",
-						"name": "; Hello World - Escreve mensagem armazenada na mem"
+						"name": "; Hello World - Escreve mensagem armazenada na me"
 					}
 				}
 			],
@@ -69,6 +69,7 @@
 			},
 			"file_history":
 			[
+				"/C/Users/Giovanni dos Santos/Documents/AtividadesOrgArq-SSC0902/Simulador/h.asm",
 				"/C/Users/Giovanni dos Santos/Documents/AtividadesOrgArq-SSC0902/Simulador/helloWorld",
 				"/D/Simulador/Hello4.asm",
 				"/D/Teste Ambiente/Hello4.asm",
@@ -134,29 +135,30 @@
 					[
 						{
 							"buffer": 0,
-							"file": "/C/Users/Giovanni dos Santos/Documents/AtividadesOrgArq-SSC0902/Simulador/h.asm",
+							"file": "/C/Users/Giovanni dos Santos/Documents/AtividadesOrgArq-SSC0902/Simulador/nave.asm",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 2652,
+								"buffer_size": 2907,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										1380,
-										1380
+										139,
+										139
 									]
 								],
 								"settings":
 								{
-									"auto_name": "; Hello World - Escreve mensagem armazenada na mem",
+									"auto_name": "; Hello World - Escreve mensagem armazenada na me",
 									"syntax": "Packages/Assembly ICMC/Assembly ICMC.tmLanguage",
-									"translate_tabs_to_spaces": false
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 741.0,
+								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
